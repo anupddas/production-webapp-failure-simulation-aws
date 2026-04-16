@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-This guide provides a structured approach to diagnosing and resolving issues in the AWS Production Failure Lab.
+This guide provides a structured approach to diagnosing and resolving issues in the Production Web App with Real Failure Simulation with AWS.
 
 ---
 
