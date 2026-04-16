@@ -63,7 +63,8 @@ aws-production-failure-lab/
 ├── LICENSE
 │
 ├── docs/
-│   ├── architecture-diagram.png
+│   ├── architecture-production-webapp-failure-simulation-aws.md
+|   ├── architecture-production-webapp-failure-simulation-aws.png
 │   ├── failure-scenarios.md
 │   ├── troubleshooting-guide.md
 │
