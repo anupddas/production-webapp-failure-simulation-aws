@@ -1,6 +1,6 @@
 # Security Group Rules – AWS Production Failure Lab
 
-This document outlines the security group configurations used in the **Production Web App with Failure Simulation** project.
+This document outlines the security group configurations used in the **Production Web App with Real Failure Simulation with AWS** project.
 
 ---
 
