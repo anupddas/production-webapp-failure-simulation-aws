@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==========================================
-# AWS Production Failure Lab
+# Production Web App with Real Failure Simulation with AWS
 # Launch Template User Data Script
 # Purpose: Automatically configure EC2 instance
 # ==========================================
