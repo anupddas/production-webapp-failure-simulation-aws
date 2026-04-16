@@ -1,6 +1,6 @@
-# AWS Production Failure Lab — Setup Guide
+# Production Web App with Real Failure Simulation with AWS — Setup Guide
 
-This document provides step-by-step instructions to deploy the **Production Web App with Real Failure Simulation** on AWS.
+This document provides step-by-step instructions to deploy the **Production Web App with Real Failure Simulation with AWS** on AWS.
 
 ---
 
